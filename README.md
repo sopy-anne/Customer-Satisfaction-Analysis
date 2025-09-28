@@ -61,7 +61,7 @@ Here is the one-page dashboard summarising the insights:
 ### Analysis Limitations
 This analysis did not cover every service offered by Dano Airlines. Instead, it focused on selected aspects of pre-boarding, in-flight, and post-boarding services, summarized into a one-page dashboard for clarity and ease of interpretation. 
 
-You can interact with my project here (https://github.com/sopy-anne/Customer-Satisfaction-Analysis/blob/main/Dano%20Airline%20Dataset%20Dashboard.pbix)
+You can interact with my project here https://github.com/sopy-anne/Customer-Satisfaction-Analysis/blob/main/Dano%20Airline%20Dataset%20Dashboard.pbix
 
 ## Recommendations
 - The on-board services should be improved to meet the aviation standard, and be tailored to meet the needs of business-class travellers who expect higher standards.
@@ -72,4 +72,5 @@ You can interact with my project here (https://github.com/sopy-anne/Customer-Sat
 
 By focusing on the critical pain points, check-in services, cleanliness, and on-board experiences, the airline has the opportunity to significantly increase customer satisfaction and strengthen its competitive edge in the market.
 
- 
+ ### Connect with me on LinkedIn 
+ www.linkedin.com/in/sopuluchukwu-ugwu
